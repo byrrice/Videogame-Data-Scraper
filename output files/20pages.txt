@@ -1,0 +1,5 @@
+Average time for 1 thread(s): 27.8
+Average time for 2 thread(s): 8.96
+Average time for 4 thread(s): 4.8
+Average time for 10 thread(s): 2.86
+Average time for 20 thread(s): 1.8
